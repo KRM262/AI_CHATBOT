@@ -25,3 +25,5 @@ The frontend is built with Streamlit, which provides a responsive and easy-to-us
 
 Exception handling is implemented to catch any errors from the OpenAI API, such as rate limits or authentication failures. This ensures the app doesn’t crash unexpectedly and provides user-friendly error messages.
 
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/5502726a-df59-4da1-847b-a02205e83391" />
